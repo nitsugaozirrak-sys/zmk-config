@@ -1,0 +1,14 @@
+file_format: "1"
+id: silakka54
+name: "Silakka54"
+type: shield
+url: "https://github.com/nitsugaozirrak-sys/zmk-config"
+requires: [nice_nano_v2]
+
+features:
+  - keys
+  - split
+
+siblings:
+  - silakka54_left
+  - silakka54_right
